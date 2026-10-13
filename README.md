@@ -34,7 +34,9 @@ The portfolio is designed with a clean, responsive layout and modern UI principl
 
 ## ABOUT
 
-I am Itumeleng Dintwe, a Computer Engineering student and current Web Developer intern at Omni Secure. In my role, I collaborate with a remote team to build and maintain client websites, focusing on responsive design, performance optimization, and secure deployment practices. This portfolio reflects my technical skills, attention to detail, and passion for delivering high-quality web solutions.
+I’m Itumeleng Dintwe, a third-year Computer Engineering student at Cape Peninsula University of Technology, with hands-on experience in web development, IT support, workflow automation, and cloud technologies. 
+
+My technical interests span software development, UI/UX design, AWS cloud deployment, and AI-driven automation. Through professional work and personal projects, I focus on building responsive digital experiences, reliable systems, and practical technology solutions that address real-world challenges. I’m committed to continuously expanding my engineering knowledge and developing scalable, user-focused applications.
 
 ---
 
